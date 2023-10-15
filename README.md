@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on creating a APK app
 - 📫 How to reach me sebdep2013@outlook.com
-#latest Activity
-Nothing, for now
+
 
 <!---
 SebLeVrais/SebLeVrais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
